@@ -63,6 +63,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## Contact
 For any questions or inquiries, please contact [gen_gen33@gmail.com].
 
----
-
-This README provides a comprehensive guide for setting up and using the `google_map_cutter` web application. If you need any images or further assistance, please let me know!
