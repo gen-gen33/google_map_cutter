@@ -33,8 +33,6 @@ The `google_map_cutter` project is a web application that allows users to select
 ## Usage
 1. **Open `index.html`**:
    Open `index.html` in a web browser to start using the application.
-   ![image](https://github.com/gen-gen33/google_map_cutter/assets/151072146/ed37e2e6-8bbc-4124-a72b-863839a9d410)
-
 2. **Interact with the Map**:
    - Click on the map to place two markers.
    - Adjust the markers by dragging them to the desired locations.
