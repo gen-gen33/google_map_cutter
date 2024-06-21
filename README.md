@@ -60,9 +60,6 @@ If you need specific images, please let me know, and I can provide screenshots o
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you find a bug or have a suggestion for improvement.
-
 ## Contact
 For any questions or inquiries, please contact [gen_gen33@gmail.com].
 
