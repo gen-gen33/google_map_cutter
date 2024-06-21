@@ -33,17 +33,20 @@ The `google_map_cutter` project is a web application that allows users to select
 ## Usage
 1. **Open `index.html`**:
    Open `index.html` in a web browser to start using the application.
-2. **Interact with the Map**:
+   ![image](https://github.com/gen-gen33/google_map_cutter/assets/151072146/a9d75608-1c38-42b1-9179-0244507b7b8c)
+
+3. **Interact with the Map**:
    - Click on the map to place two markers.
    - Adjust the markers by dragging them to the desired locations.
    - Input coordinates directly into the text fields if needed.
    - Select the map type (roadmap or satellite).
-   
-3. **Take a Screenshot**:
+   ![image](https://github.com/gen-gen33/google_map_cutter/assets/151072146/15b17032-f9d5-4ebe-8f88-b4450e0c0b7e)
+
+4. **Take a Screenshot**:
    - Click the "Take Screenshot" button to capture the selected area.
    - The screenshot will open in a new tab, where it can be saved.
 
-4. **Reset Markers**:
+5. **Reset Markers**:
    - Click the "Reset Markers" button to clear all markers and start over.
 
 ## Screenshots
