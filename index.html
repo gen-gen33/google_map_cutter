@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Maps API with Draggable Markers</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div id="map"></div>
+    <div id="controls">
+        <input id="lat1" type="text" placeholder="Lat1">
+        <input id="lng1" type="text" placeholder="Lng1">
+        <input id="lat2" type="text" placeholder="Lat2">
+        <input id="lng2" type="text" placeholder="Lng2">
+        <br>
+        <input type="radio" id="roadmap" name="maptype" value="roadmap" checked>
+        <label for="roadmap">Roadmap</label>
+        <input type="radio" id="satellite" name="maptype" value="satellite">
+        <label for="satellite">Satellite</label>
+        <br>
+        <button onclick="applyCoordinates()">Apply Coordinates</button>
+        <button onclick="takeScreenshot()">Take Screenshot</button>
+        <button onclick="resetMarkers()">Reset Markers</button>
+    </div>
+    <script src="config.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
