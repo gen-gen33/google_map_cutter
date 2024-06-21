@@ -45,6 +45,7 @@ The `google_map_cutter` project is a web application that allows users to select
 4. **Take a Screenshot**:
    - Click the "Take Screenshot" button to capture the selected area.
    - The screenshot will open in a new tab, where it can be saved.
+   ![スクリーンショット_21-6-2024_232717_maps googleapis com](https://github.com/gen-gen33/google_map_cutter/assets/151072146/4ae3afa5-a778-49a1-a20e-75d1e0fa8476)
 
 5. **Reset Markers**:
    - Click the "Reset Markers" button to clear all markers and start over.
